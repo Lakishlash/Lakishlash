@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lakishlash</h1>
 
 <p align="center">
-  <em>Final Year Full Stack @ Deakin University</em>  
+  <em>Final Year Full Stack Student @ Deakin University</em>  
 </p>
 
 ---
@@ -27,15 +27,8 @@
 
 ### 📫 Let’s Connect!
 
-Feel free to reach out — whether it’s to talk code, projects, or just tech in general!
-
 - LinkedIn: https://www.linkedin.com/in/lakmal-wijewardene-a946a7219
 - Email: lakishwijewardene@gmail.com
 - GitHub: [Lakishlash](https://github.com/Lakishlash)
 
 ---
-
-<p align="center">
-  <i>"Learning to write programs stretches your mind and helps you think better, 
-  creates a way of thinking about things that I think is helpful in all domains." – Bill Gates</i>
-</p>
